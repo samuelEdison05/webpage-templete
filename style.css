@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Poppins:wght@500&family=Tangerine:wght@700&family=Ubuntu:wght@400;500&display=swap');
+
+#content{
+ background-image: linear-gradient(to right ,#113361,#f33e62);
+ background-repeat: no-repeat;
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.navbar .navbar-brand{
+    color: rgb(253, 248, 248);
+    padding:10px;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 900;
+
+}
+.navbar .nav-item a{
+    font-size: 18px;
+    color: rgb(247, 245, 245) !important;
+    padding: 10px;
+    margin-right: 20px;
+}
+img{
+    padding:10px;
+}
+h4{
+    font-family: fantasy;
+    color: rgb(252, 48, 48);
+    text-shadow: 2px 2px 2px rgb(17, 17, 17);
+    letter-spacing: 80px;
+    font-size: 3.5rem;
+    padding-bottom: 15px;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 6rem;
+    text-shadow: 4px 4px 5px black;
+    letter-spacing: 5px;
+
+}
+button{
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: #e9f2fb;
+    border: none;
+    font-family: monospace;
+    font-weight: 500;
+    text-shadow: 1px 1px 5px rgb(18, 18, 17);
+    
+}
+p{
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: rgb(18, 19, 17);
+    text-shadow: 1px 1px 5px rgb(18, 18, 17);
+    font-weight: 300;
+    
+}
